@@ -148,5 +148,5 @@ while True:
                 else:
                     turn = 'player'
 
-        if not playAgain():
-            break
+    if not playAgain():
+        break
